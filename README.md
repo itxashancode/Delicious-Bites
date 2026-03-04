@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🍰%20Delicious%20Bites&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Modern%20Bakery%20Experience&descSize=20&descAlignY=60&descColor=ffdfba" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Delicious%20Bites&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Modern%20Bakery%20Experience&descSize=20&descAlignY=60&descColor=ffdfba" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/itxashancode/Delicious-Bites">
