@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/itxashancode/Delicious-Bites">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Welcome+to+Delicious+Bites+🧁;Responsive+Bakery+Website;Built+with+HTML+%2B+CSS+%2B+Bootstrap+5;Clean+%7C+Modern+%7C+Mouth-watering+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Welcome+to+Delicious+Bites;Responsive+Bakery+Website;Built+with+HTML+%2B+CSS+%2B+Bootstrap+5;Clean+%7C+Modern+%7C+Mouth-watering+UI" alt="Typing SVG" />
 </a>
 
 <br/>
